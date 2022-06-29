@@ -1,5 +1,5 @@
 
-public void Pares(int numero)
+public static void Pares(int numero)
 {
     int i = 0;
     while(i <= numero)

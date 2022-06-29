@@ -1,4 +1,4 @@
-public void Contagem(int numero)
+void Contagem(int numero)
 {
     int i = 0;
     while(i <= numero)
