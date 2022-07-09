@@ -1,0 +1,2 @@
+// 25. Implementar uma função que recebendo um array de palavras, retorne um novo array sem conter palavras repetidas.
+// Ex: ["sangue", "nos", "olho", "!", "!", "!" ] => ["sangue", "nos", "olho", "!" ]
