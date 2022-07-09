@@ -1,5 +1,5 @@
 
-public string SepararCaracteres(string frase) {
+string SepararCaracteres(string frase) {
     string palavraSeparada = "";
     for(int i = 0; i<frase.Length; i++)
     {
